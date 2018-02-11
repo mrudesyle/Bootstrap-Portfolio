@@ -49,9 +49,14 @@ h1, h2, h3{
     border-top: 8px solid #4aaaa5;
     
   }  	
-.carousel-caption{
+  .navbar-toggle{
+   
+   border: 1px solid  #4aaaa5;
+  }
 
-}
+  .icon-bar{
+    background-color: #4aaaa5;
+  }
 
 .pad {
     background-clip: padding-box;
